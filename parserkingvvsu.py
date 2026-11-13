@@ -15,7 +15,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 # Конфигурация
-BOT_TOKEN = "7740456708:AAGtqjk2XcttR2iXgRfxYed0jQcNttPhDf0"
+BOT_TOKEN = "#bottoken"
 ADMIN_CHAT_ID = "8196566107"
 WEBSITE_URL = "https://cabinet.vvsu.ru/time-table/"
 LOGIN_URL = "https://cabinet.vvsu.ru/sign-in"
